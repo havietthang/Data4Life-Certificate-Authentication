@@ -114,8 +114,6 @@ The project was featured by **FPT University** on its official channels:
 * **FPT University official website**: [Ứng dụng AI xác thực văn bằng: Nhóm sinh viên phát triển hệ thống kiểm tra văn bằng thông minh](https://daihoc.fpt.edu.vn/tin-tuc/ung-dung-ai-xac-thuc-van-bang-nhom-sinh-vien-phat-trien-he-thong-kiem-tra-van-bang-thong-minh/)
 * **FPT University official Facebook page**: [Facebook post](https://www.facebook.com/share/p/1BPsVPRYPC/)
 
-This coverage introduced the project as an AI-based solution for intelligent certificate and diploma verification, developed by a student team in the context of **Data for Life – Season 3: Hack for Growth 2025**.
-
 ---
 
 ## Project structure 🧱
